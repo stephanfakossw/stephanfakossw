@@ -10,5 +10,6 @@ I'm passionate about finance and can help you with Xero Accounting, automation, 
 <!--
 **stephanfakossw/stephanfakossw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Stephan's github stats](https://github-readme-stats.vercel.app/api?username=stephanfakossw&theme=dark)](https://github.com/stephanfakossw/github-readme-stats)
+[![Stephan's github stats](https://github-readme-stats.vercel.app/api?username=stephanfakossw&theme=dark)]
+(https://github.com/stephanfakossw/github-readme-stats)
 
