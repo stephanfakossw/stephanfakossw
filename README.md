@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm the SSW Senior Accountant. I'm coming to SSW with more than 5 years of accounting experience under my belt, and a passion for technology and solving accountancy problems.
+I'm proud to serve as the Senior Accountant at SSW, bringing with me over five years of accounting experience, along with a fervent enthusiasm for technology and a proven track record of solving intricate accountancy challenges.
 
-Coming from a chartered accounting role, I'm working closely with our Financial Controller to ensure SSW runs smoothly, including leading our finance reporting, as well as our general finance and other admin duties.
+My professional journey, rooted in the realm of chartered accounting, has led me to a close partnership with our Financial Controller at SSW. Our collaborative efforts ensure the seamless operation of SSW, with my responsibilities encompassing leadership in financial reporting and the adept management of our general finance and administrative duties..
 
-I'm passionate about finance and can help you with Xero Accounting, automation, and management accounting.
+Finance is not just my job; it's my passion. I am well-equipped to assist you with specialized expertise in Xero Accounting, automation, and the intricate world of management accounting. Feel free to connect if you're seeking innovative financial solutions.
 
 
 [![Stephan's github stats](https://github-readme-stats.vercel.app/api?username=stephanfakossw&theme=dark)](https://github.com/stephanfakossw/github-readme-stats)
