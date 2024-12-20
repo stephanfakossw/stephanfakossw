@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-I'm proud to serve as the Senior Accountant at SSW, bringing with me over five years of accounting experience, along with a fervent enthusiasm for technology and a proven track record of solving intricate accountancy challenges.
+⭐ I'm a CPA 
 
-My professional journey, rooted in the realm of chartered accounting, has led me to a close partnership with our Financial Controller at SSW. Our collaborative efforts ensure the seamless operation of SSW, with my responsibilities encompassing leadership in financial reporting and the adept management of our general finance and administrative duties..
+💭 Ask me about Accounting, Xero or internal reporting 
 
-Finance is not just my job; it's my passion. I am well-equipped to assist you with specialized expertise in Xero Accounting, automation, and the intricate world of management accounting. Feel free to connect if you're seeking innovative financial solutions.
+🔭 I work at SSW https://www.ssw.com.au 
 
+📫 Reach me on: stephanfako@ssw.com.au
+
+⚡ Fun fact: I'm not just a nerd, I'm the king of nerds 🤪 
 
 [![Stephan's github stats](https://github-readme-stats.vercel.app/api?username=stephanfakossw&theme=dark)](https://github.com/stephanfakossw/github-readme-stats)
