@@ -8,6 +8,6 @@
 
 📫 Reach me on: stephanfako@ssw.com.au
 
-⚡ Fun fact: I'm not just a nerd, I'm the king of nerds 🤪 
+⚡ Fun fact: I'm an Accountant with a master degree in Marketing 🤷‍♂️🤷‍♂️ 
 
 [![Stephan's github stats](https://github-readme-stats.vercel.app/api?username=stephanfakossw&theme=dark)](https://github.com/stephanfakossw/github-readme-stats)
